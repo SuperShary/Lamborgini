@@ -6,6 +6,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Framer Motion](https://img.shields.io/badge/Framer-Motion-FF0055?style=for-the-badge&logo=framer)
 
+### 🔴 [Live Demo → lamborgini-mu.vercel.app](https://lamborgini-mu.vercel.app)
+
 A stunning **Awwwards-level scrollytelling** landing page where the Lamborghini Aventador **explodes into parts** as you scroll! Built entirely using AI coding assistants - no manual coding required! 🤯
 
 ---
